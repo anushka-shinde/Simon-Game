@@ -2,7 +2,7 @@
 #Overview
 The Simon game is a classic memory game where players are required to repeat a sequence of colors that progressively gets longer. The game tests and improves memory skills by gradually increasing the complexity of the sequences. This project uses HTML, CSS, and JavaScript to create an interactive and visually appealing Simon game that runs in the browser.
 
-#Components
+## Components
 1.HTML Structure:
 
 Title and Instructions: A heading to display the game title and instructions on how to start the game.
@@ -29,7 +29,7 @@ Feedback and Level Progression: Provide visual feedback for correct and incorrec
 
 Game Over Mechanism: Display a game over message and reset the game state when the user makes a mistake.
 
-#Benefits of the Project
+## Benefits of the Project
 Enhances Memory Skills: The game provides a fun way to improve short-term memory and pattern recognition skills.
 
 JavaScript Practice: This project is an excellent way for developers to practice and enhance their JavaScript skills, particularly in DOM manipulation and event handling.
